@@ -1,6 +1,6 @@
 # 🏀 NBA Salary Prediction (Machine Learning)
 
-This project is a key milestone in my Data Science journey. As a Computer Engineering student at ADNSU with a background in System Administration, I wanted to bridge the gap between raw sports statistics and financial value using Machine Learning.
+This project is a key milestone in my Data Science journey. As a Computer Engineering student at ASOIU with a background in System Administration, I wanted to bridge the gap between raw sports statistics and financial value using Machine Learning.
 
 ## 🧐 Why this project?
 Basketball is a data-rich environment, making it perfect for regression analysis. My goal was to see how much a player's performance on the court (points, minutes, assists) actually dictates their market value in the modern NBA (2010-2025).
